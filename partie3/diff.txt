@@ -1,4 +1,4 @@
-git diff : affiche la liste des modifications non indexé depuis le dernier commit ( mais pas les nouveaux fichier). 
-git diff --cached : affiche la liste des modifications indexé depuis le dernier commit. 
-git diff 'commit1' : affiche la liste des modifications depuis le commit 'commit1'. 
-git diff 'commit1' 'commit2' : affiche la liste des modifications entre le commit 'commit1' et le commit 'commit2'. 
+git diff : affiche la liste des modifications non indexé depuis le dernier commit ( mais pas les nouveaux fichiers). 
+git diff --cached : affiche la liste des modifications indexées depuis le dernier commit. 
+git diff "commit1" : affiche la liste des modifications depuis le commit "commit1". 
+git diff "commit1" 'commit2' : affiche la liste des modifications entre le commit "commit1" et le commit "commit2". 
