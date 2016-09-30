@@ -1,0 +1,3 @@
+git show : affiche des informations sur l'objet passé en paramètre, par défaut affiche des informations sur le dernier commit.
+git show "commit" : affiche des informations et un diff sur le commit "commit".
+git show "fichier" : affiche les modifications du dernier commit sur le fichier ou le répertoire "fichier"
