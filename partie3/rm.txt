@@ -1,0 +1,2 @@
+git rm "un fichier": Cette commande permet de supprimer le fichier "un fichier" en ajoutant a l'indexe sa suppression.
+git rm "un fichier" --cached : Cette commande efface le fichier "un fichier" de l'indexe mais ne le supprime pas.
